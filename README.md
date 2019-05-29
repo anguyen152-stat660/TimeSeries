@@ -1,3 +1,2 @@
 # TimeSeries
-TimeSeriesAnalytics_2019
-LongTerm_Unemployment_Forecasting
+LongTerm_Unemployment_Forecasting for the US in 2019
